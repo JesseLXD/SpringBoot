@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_01_quickstart/springboot_01_quickstart.iml" filepath="$PROJECT_DIR$/springboot_01_quickstart/springboot_01_quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_02_base_config/springboot_01_quickstart (1).iml" filepath="$PROJECT_DIR$/springboot_02_base_config/springboot_01_quickstart (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_03_read_data/springboot_01_quickstart (2).iml" filepath="$PROJECT_DIR$/springboot_03_read_data/springboot_01_quickstart (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_04_prifile/springboot_01_quickstart (3).iml" filepath="$PROJECT_DIR$/springboot_04_prifile/springboot_01_quickstart (3).iml" />
+    </modules>
+  </component>
+</project>
