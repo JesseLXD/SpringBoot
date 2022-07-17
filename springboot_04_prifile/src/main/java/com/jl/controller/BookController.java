@@ -16,6 +16,7 @@ public class BookController {
         System.out.println("hello,Git2!");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
         return "hello , SpringBoot!";
     }
 }
