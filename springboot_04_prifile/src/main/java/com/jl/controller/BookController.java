@@ -13,6 +13,7 @@ public class BookController {
     public String getById(@PathVariable Integer id){
         System.out.println("id ==> "+id);
         System.out.println("hello,Git!");
+        System.out.println("hello,Git2!");
         return "hello , SpringBoot!";
     }
 }
